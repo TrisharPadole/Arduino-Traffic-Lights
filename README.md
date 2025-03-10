@@ -40,9 +40,7 @@ This project simulates a simple traffic light system using an Arduino. The syste
 3. Load the compiled `.hex` file from the Arduino IDE.
 4. Run the simulation to see the traffic light cycle.
 
-## License
-This project is open-source and available under the **MIT License**.
 
 ## Author
-[Your Name]
+Trishar Padole
 
